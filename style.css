@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    height: 600px;
+}
+.intro-part{
+    padding-top: 30px;
+    background-image: url(images/header-bg.png);
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+}
+#name{
+    color: #e22bb4;
+}
+#image{
+    padding-right: 20px;
+}
+.intro{
+    margin-top: 150px;
+}
+.half-width img{
+    width: 100%;
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+    padding-bottom: 15px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #e22bb4;
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.bio{
+    padding-top: 200px;
+}
+.biography-part{
+    margin-top: 100px;
+    background-image: url(images/biography-bg.png);
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.latest-work{
+    padding-top: 200px;
+    background-image: url(images/latest-work-bg.png);
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.latest-work h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.work-img{
+    text-align: center;
+
+}
+.img-1{
+    height: 250px;
+    width: 350px;
+    margin-left: 20px;
+}
+.img-2{
+    height: 250px;
+    width: 350px;
+    margin-left: 20px;
+}
+.img-3{
+    height: 250px;
+    width: 350px;
+    margin-left: 20px;
+}
